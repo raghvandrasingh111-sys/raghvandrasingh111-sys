@@ -1,18 +1,245 @@
-# 💫 About Me:
- class Developer {<br>  final String name = "Raghavendra singh";<br>  final String role = "Software Engineer";<br>  final String company = "Maira holidays  Pvt. Ltd.";<br>  final int experience = 1; // years<br>  final String location = "India 🇮🇳";<br>  <br>  List<String> languages = ["Dart", "TypeScript", "JavaScript"];<br>  List<String> frameworks = ["Flutter", "NestJS", "Node.js", "Express"];<br>  <br>  Map<String, String> currentFocus = {<br>    "learning": "Server-driven UI & Advanced Animations",<br>    "building": "Scalable Mobile & Backend Solutions",<br>    "contributing": "Open Source Flutter Packages"<br>  };<br>  <br>  String getQuote() => "Code is like a good anime arc — starts simple, gets intense, ends beautifully 🎬";<br>}
+<div align="center">
 
+# 👋 Hey there, I'm Raghavendrasingh
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh_raghavendra24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-singh-622968219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghvandrasingh111@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Engineer+%7C+Mobile+Architect;Open+Source+Contributor;Backend+Developer+%7C+NestJS+%2B+Node.js;Anime+Enthusiast+%7C+Problem+Solver;Building+Beautiful+Experiences" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raghvandrasingh111-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raghvandrasingh111-sys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghvandrasingh111-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-singh-622968219/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghvandrasingh111@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Vikaskumar75&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raghvandrasingh111-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```dart
+class Developer {
+  final String name = "Raghavendra singh";
+  final String role = "Software Engineer";
+  final String company = "Maira holidays Pvt. Ltd.";
+  final int experience = 2; // years
+  final String location = "India 🇮🇳";
+  
+  List<String> languages = ["Dart", "TypeScript", "JavaScript"];
+  List<String> frameworks = ["Flutter", "NestJS", "Node.js", "Express"];
+  
+  Map<String, String> currentFocus = {
+    "learning": "Server-driven UI & Advanced Animations",
+    "building": "Scalable Mobile & Backend Solutions",
+    "contributing": "Open Source Flutter Packages"
+  };
+  
+  String getQuote() => "Code is like a good anime arc — starts simple, gets intense, ends beautifully 🎬";
+}
+```
+
+💙 **Philosophy**: Building apps that are smooth, performant, and beautiful — from pixels to APIs
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📦 Featured Open Source Packages
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌀 Animate Gradient
+[![pub package](https://img.shields.io/pub/v/animate_gradient.svg?label=animate_gradient&color=blue)](https://pub.dev/packages/animate_gradient)
+
+Smooth, eye-catching gradient animations for Flutter. Perfect for creating dynamic, beautiful UI elements.
+
+**[📦 View Package →](https://pub.dev/packages/animate_gradient)**
+
+</td>
+<td width="50%">
+
+### 📅 Multi Date Picker
+[![pub package](https://img.shields.io/pub/v/multi_date_picker.svg?label=multi_date_picker&color=blue)](https://pub.dev/packages/multi_date_picker)
+
+Highly customizable multi-date picker widget for Flutter apps. Simple API, powerful features.
+
+**[📦 View Package →](https://pub.dev/packages/multi_date_picker)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaskumar75&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vikaskumar75&limit=4&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Contributed Repo" />
+</div>
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikaskumar75&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaskumar75&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎬 Media & Recognition
+
+<div align="center">
+
+### 🎤 Flutter Factor - Episode 1
+
+<a href="https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s">
+  <img src="https://img.youtube.com/vi/ScWqjWW9c6E/maxresdefault.jpg" width="600px" alt="Flutter Factor Episode 1" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</a>
+
+*Featured in Episode 1 discussing Flutter development, open source contributions, and the future of cross-platform development.*
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+```typescript
+const currentJourney = {
+  learning: [
+    "Server-driven UI architecture in Flutter",
+    "Advanced Flutter animations & custom painters",
+    "Scalable backend patterns with NestJS",
+    "Developer tooling & productivity optimization"
+  ],
+  building: [
+    "Production-ready Flutter applications",
+    "RESTful APIs & microservices",
+    "Open source packages for the community"
+  ],
+  goals: [
+    "Contribute to Flutter framework",
+    "Build 10k+ downloads on Pub.dev packages",
+    "Share knowledge through technical writing"
+  ]
+};
+```
+
+---
+
+## 🎌 Beyond The Code
+
+When I'm not crafting apps or debugging APIs, you'll find me:
+
+<div align="center">
+
+| Activity | Level | Description |
+|----------|-------|-------------|
+| 🧩 Rubik's Cube | ███████████████░░░░░░░ 75% | Speed solving & pattern recognition |
+| 🏸 Badminton | ████████████████░░░░░░ 80% | Weekly matches & improving technique |
+| 🏓 Sports | ███████████████░░░░░░░ 70% | Table tennis, cricket, volleyball |
+| 🧩 Sudoku | ███████████████░░░░░░░ 75% | Daily brain training |
+| ☕ Chai | ██████████████████████ 100% | Endless cups while coding |
+
+</div>
+
+> *I believe hobbies that challenge the mind and body make better developers. The problem-solving skills translate directly to code.*
+
+---
+
+## 💼 Professional Work
+
+<div align="center">
+
+**Most of my professional contributions happen at** [**GeekyAnts India Pvt. Ltd.**](https://www.geekyants.com/)
+
+Building enterprise Flutter applications, scalable backends, and contributing to product innovation.
+
+</div>
+
+---
+
+## 💡 Daily Wisdom
+
+<div align="center">
+
+### "Code is like a good anime arc — it starts simple, gets intense, and ends beautifully." 🎬
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+**💬 Open for:**
+- 🚀 Open source collaborations
+- 💼 Freelance Flutter projects
+- 🎓 Mentoring & knowledge sharing
+- 🤝 Networking with fellow developers
+
+**📫 Reach me at:** [raghvandrasingh111@gmail.com](mailto:raghvandrasingh111@gmail.com)
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-singh-622968219
+<br />
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Have a great day! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
