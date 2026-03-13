@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Raghavendrasingh
+# 👋 Hey there, I'm Raghavendra singh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Engineer+%7C+Mobile+Architect;Open+Source+Contributor;Backend+Developer+%7C+NestJS+%2B+Node.js;Building+Beautiful+Experiences" alt="Typing SVG" />
 
