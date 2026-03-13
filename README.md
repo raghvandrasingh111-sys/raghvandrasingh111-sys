@@ -68,39 +68,6 @@ class Developer {
 
 ---
 
-## 📦 Featured Open Source Packages
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌀 Animate Gradient
-[![pub package](https://img.shields.io/pub/v/animate_gradient.svg?label=animate_gradient&color=blue)](https://pub.dev/packages/animate_gradient)
-
-Smooth, eye-catching gradient animations for Flutter. Perfect for creating dynamic, beautiful UI elements.
-
-**[📦 View Package →](https://pub.dev/packages/animate_gradient)**
-
-</td>
-<td width="50%">
-
-### 📅 Multi Date Picker
-[![pub package](https://img.shields.io/pub/v/multi_date_picker.svg?label=multi_date_picker&color=blue)](https://pub.dev/packages/multi_date_picker)
-
-Highly customizable multi-date picker widget for Flutter apps. Simple API, powerful features.
-
-**[📦 View Package →](https://pub.dev/packages/multi_date_picker)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -111,32 +78,6 @@ Highly customizable multi-date picker widget for Flutter apps. Simple API, power
 <br />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikaskumar75&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaskumar75&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎬 Media & Recognition
-
-<div align="center">
-
-### 🎤 Flutter Factor - Episode 1
-
-<a href="https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s">
-  <img src="https://img.youtube.com/vi/ScWqjWW9c6E/maxresdefault.jpg" width="600px" alt="Flutter Factor Episode 1" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</a>
-
-*Featured in Episode 1 discussing Flutter development, open source contributions, and the future of cross-platform development.*
 
 </div>
 
